@@ -6,7 +6,7 @@
   },
   "autoload": {
     "psr-4": {
-      "jeyroik\\alisa\\": "src/"
+      "jeyroik\\alice\\": "src/"
     }
   }
 }
