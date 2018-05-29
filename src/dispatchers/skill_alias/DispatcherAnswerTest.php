@@ -48,7 +48,7 @@ class DispatcherAnswerTest extends DispatcherAnswerAbstract
     
     public function run()
     {
-        return $this->alisa->buildResponse(
+        return $this->alice->buildResponse(
             $this->request, 
             /**
              * Вставьте сюда текст, который вернётся пользователю в ответ.
