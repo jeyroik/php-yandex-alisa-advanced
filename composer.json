@@ -1,0 +1,12 @@
+{
+  "name": "jeyroik/yandex-alisa-advanced",
+  "description": "Library for creating skills for Yandex Alice.",
+  "require": {
+    "vlucas/phpdotenv": "^2.4"
+  },
+  "autoload": {
+    "psr-4": {
+      "jeyroik\\alisa\\": "src/"
+    }
+  }
+}
