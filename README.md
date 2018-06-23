@@ -18,6 +18,10 @@ composer require jeyroik/yandex-alisa-advanced:*
 jeyroik\alice\Alice::run()
 ```
 
+# using если не понятно
+
+Воспользуйтесь исходниками: в configs, в диспетчерах и т.п. есть тестовые реализации, которые помогут разобраться.
+
 # release notes
 
 В будущем планируется добавить:
