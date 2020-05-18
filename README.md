@@ -1,7 +1,7 @@
 # [deprecated] php-yandex-alisa-advanced
 Библиотека для реализации навыков для Алисы Яндекса (Library for creating skills for Yandex.Alice).
 
-Данная реализация больше не поддерживается. Пожалуйста, используйте [jeyroik/alice-extas](https://github.com/jeyroik/alice-extas "Перейти к библиотеке alice-extas"), для которой есть готовый пример использования [jeyroik/alice-extas-example](https://github.com/jeyroik/alice-extas-example "Перейти к alice-extas-example").
+Данная реализация больше не поддерживается. Пожалуйста, используйте [jeyroik/extas-alice](https://github.com/jeyroik/extas-alice "Перейти к библиотеке extas-alice"), для которой есть готовый пример использования [jeyroik/extas-alice-example](https://github.com/jeyroik/extas-alice-example "Перейти к extas-alice-example").
 
 # install
 
